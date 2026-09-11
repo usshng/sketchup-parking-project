@@ -1,4 +1,4 @@
-# sketchup-parking-project
+# Sustainable Mobility Parking Project
 
 A voluntary 3D design and modeling project developed in **SketchUp** to address the lack of sustainable mobility parking at **Lope de Vega International School**.
 
@@ -26,5 +26,5 @@ The proposal was accepted and implemented, and the school now has a parking area
 
 The original SketchUp model is available here:
 
-[📦 View SketchUp Project](Proyecto_Parking.skp)
+[📦 Open the SketchUp Project](Proyecto_Parking.skp)
 
