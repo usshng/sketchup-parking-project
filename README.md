@@ -21,3 +21,10 @@ The proposal was accepted and implemented, and the school now has a parking area
   <img src="images/1773520291613.jpeg" width="45.5%">
   <img src="images/1773520293389.jpeg" width="45.5%">
 </p>
+
+## Project File
+
+The original SketchUp model is available here:
+
+[📦 View SketchUp Project](Proyecto_Parking.skp)
+
