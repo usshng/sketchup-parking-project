@@ -9,12 +9,8 @@ The proposal was accepted and implemented, and the school now has a parking area
 ## Project Images
 
 <p align="center">
-  <img src="images/1773513001327.jpeg" width="48%">
-  <img src="images/1773513001378.jpeg" width="48%">
+  <img src="images/1773513001327.jpeg" width="25%">
+  <img src="images/1773513001378.jpeg" width="25%">
+  <img src="images/1773513001757.jpeg" width="25%">
+  <img src="images/1773513002222.jpeg" width="25%">
 </p>
-
-<p align="center">
-  <img src="images/1773513001757.jpeg" width="48%">
-  <img src="images/1773513002222.jpeg" width="48%">
-</p>
-
