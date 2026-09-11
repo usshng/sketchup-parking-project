@@ -1,6 +1,6 @@
 # Sustainable Mobility Parking Project
 
-A voluntary 3D design and modeling project developed in **SketchUp** to address the lack of sustainable mobility parking at **Lope de Vega International School**.
+A voluntary 3D design and modeling project developed in **2022 using SketchUp**, in response to the growing use of **personal mobility vehicles (PMVs)**, particularly electric scooters, and the need for dedicated sustainable mobility parking at **Lope de Vega International School**.
 
 As a regular electric scooter user, I identified the need, designed a proposal considering **space layout, accessibility, and capacity**, and presented it to the school.
 
