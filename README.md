@@ -18,6 +18,6 @@ The proposal was accepted and implemented, and the school now has a parking area
 ## Final Result
 
 <p align="center">
-  <img src="1773520291613.jpeg" width="50%">
-  <img src="1773520293389.jpeg" width="50%">
+  <img src="images/1773520291613.jpeg" width="50%">
+  <img src="images/1773520293389.jpeg" width="50%">
 </p>
